@@ -130,8 +130,13 @@ To personalize the design:
 
 ---
 
+## 📷 Credits
+The login form design inspiration is based on a post by [Markus Kreysch](https://www.linkedin.com/posts/markus-kreysch_chicago-microsoft-ignite-activity-7264286387313561600-Ulnu).  
+
+---
+
 <div align="center">
   
 _Made with ❤️ by [Roozbeh]_
 
-</div>
+</div>  
